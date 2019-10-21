@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    a {
+        &:hover { color: black; }
+    }
+}
+div{
+    font-size: 200px;
+}
+.hello{
+    text-align: center;
+}

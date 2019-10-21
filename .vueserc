@@ -1,0 +1,7 @@
+{
+  "include": [
+    "./components/**/*.vue"
+  ],
+  "title": "oleiwa-doc",
+  "genType": "docute"
+}
